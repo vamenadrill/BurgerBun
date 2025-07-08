@@ -4,10 +4,6 @@ A simple and visually appealing **Burger Bun** landing page built using only **H
 
 ---
 
-## 🚀 Live Demo
-
----
-
 ## 📌 Features
 
 - Flat and modern design style
