@@ -6,9 +6,6 @@ A simple and visually appealing **Burger Bun** landing page built using only **H
 
 ## 🚀 Live Demo
 
-*(Optional: add your hosted link here if available)*  
-[View Live Site](#)
-
 ---
 
 ## 📌 Features
